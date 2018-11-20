@@ -1,0 +1,45 @@
+body{
+  background: url("/Users/evangelinewright/Documents/GitHub/DoggosofYork/c_e_website/css/images/adorable-animal-breed-374906.jpg");
+}
+
+ul{
+text-align: center;
+  background: #00FFFF;
+  color: black;
+  font-family: "Amatic SC", "arial";
+  font-size: 30px;
+}
+
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+li{
+  display: inline;
+  padding: 0px 50px 0px 50px;
+}
+
+#home{
+  text-decoration: underline;
+}
+
+img{
+  border-radius: 50%;
+}
+
+p{
+  text-align: center;
+  color: white;
+  font-family: caveat;
+  font-size: 35px;
+  background: #696969;
+  width: 500px;
+  height:80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  padding-top: 25px;
+  border-radius: 25px;
+}
