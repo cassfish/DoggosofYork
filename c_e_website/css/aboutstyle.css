@@ -9,15 +9,15 @@ h1 {
   font-style: italic;
 }
 
-a:link {
+#linkk a:link {
   color: indianred;
 }
 
-a:hover {
+#linkk a:hover {
   color: salmon;
 }
 
-a:visited {
+#linkk a:visited {
   color: darkseagreen;
 }
 
