@@ -1,4 +1,4 @@
-body{
+body {
   background: #DCDCDC;
 }
 
@@ -13,37 +13,37 @@ h1 {
   font-size: 45px;
   font-style: italic;
 }
-ul{
-text-align: center;
+
+ul {
+  text-align: center;
   background: darkturquoise;
   color: black;
   font-family: "Georgia";
   font-size: 30px;
 }
 
-
-a{
+a {
   color: white;
   text-decoration: none;
 }
 
-li{
+li {
   display: inline;
   padding: 0px 50px 0px 50px;
 }
 
-#home{
+#home {
   text-decoration: underline;
 }
 
-p{
+p {
   text-align: center;
   color: white;
   font-family: caveat;
   font-size: 35px;
   background: #696969;
   width: 500px;
-  height:80px;
+  height: 80px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 80px;
