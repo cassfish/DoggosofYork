@@ -9,9 +9,21 @@ h1 {
   font-style: italic;
 }
 
+a:link {
+  color: indianred;
+}
+
+a:hover {
+  color: salmon;
+}
+
+a:visited {
+  color: darkseagreen;
+}
+
 ul {
   text-align: center;
-  background: #00FFFF;
+  background: darkturquoise;
   color: black;
   font-family: "Georgia";
   font-size: 30px;
@@ -55,6 +67,8 @@ p {
   font-style: italic;
 }
 #AboutDoggos {
+  font-family: Georgia;
+  font-size: 18px
 }
 
 #Cassy {
@@ -66,6 +80,10 @@ p {
   font-style: italic;
 }
 
+#Cassyabout {
+  font-family: Georgia;
+  font-size: 18px;
+}
 
 
 #Evangeline {
@@ -76,3 +94,21 @@ p {
   font-size: 45px;
   font-style: italic;
 }
+
+#Evangelineabout {
+  font-family: Georgia;
+  font-size: 18px;
+}
+
+#Contact {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: indianred;
+  font-family: Georgia;
+  font-size: 45px;
+  font-style: italic;
+}
+
+#link {
+  font-family: Georgia;
+  font-size: 18px;
