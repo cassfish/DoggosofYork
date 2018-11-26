@@ -1,12 +1,17 @@
 body{
-  background: #696969;
+  background: #DCDCDC;
+}
+
+h1 {
+  color: #483D8B;
+  font-family: fantasy;
 }
 
 ul{
 text-align: center;
   background: #00FFFF;
   color: black;
-  font-family: "Amatic SC", "arial";
+  font-family: "Georgia";
   font-size: 30px;
 }
 
@@ -25,9 +30,6 @@ li{
   text-decoration: underline;
 }
 
-img{
-  border-radius: 50%;
-}
 
 p{
   text-align: center;
@@ -42,4 +44,9 @@ p{
   margin-top: 80px;
   padding-top: 25px;
   border-radius: 25px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
