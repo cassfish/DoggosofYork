@@ -1,0 +1,114 @@
+body {
+  background: #DCDCDC;
+}
+
+h1 {
+  color: #483D8B;
+  font-family: 'Zapfino';
+  font-size: 45px;
+  font-style: italic;
+}
+
+#linkk a:link {
+  color: indianred;
+}
+
+#linkk a:hover {
+  color: salmon;
+}
+
+#linkk a:visited {
+  color: darkseagreen;
+}
+
+ul {
+  text-align: center;
+  background: darkturquoise;
+  color: black;
+  font-family: "Georgia";
+  font-size: 30px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+  padding: 0px 50px 0px 50px;
+}
+
+#about {
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-family: caveat;
+  font-size: 35px;
+  background: #696969;
+  width: 500px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  padding-top: 25px;
+  border-radius: 25px;
+}
+
+#Title {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: steelblue;
+  font-family: Georgia;
+  font-size: 45px;
+  font-style: italic;
+}
+
+#AboutDoggos {
+  font-family: Georgia;
+  font-size: 18px
+}
+
+#Cassy {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: salmon;
+  font-family: Georgia;
+  font-size: 45px;
+  font-style: italic;
+}
+
+#Cassyabout {
+  font-family: Georgia;
+  font-size: 18px;
+}
+
+#Evangeline {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: darkseagreen;
+  font-family: Georgia;
+  font-size: 45px;
+  font-style: italic;
+}
+
+#Evangelineabout {
+  font-family: Georgia;
+  font-size: 18px;
+}
+
+#Contact {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: indianred;
+  font-family: Georgia;
+  font-size: 45px;
+  font-style: italic;
+}
+
+#link {
+  font-family: Georgia;
+  font-size: 18px;
